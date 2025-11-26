@@ -1,8 +1,15 @@
+# <h1 align="center">EVENT BUDGET MANAGEMENT SYSTEM</h1>
+
+
+
 ****Abstract****
 
 The Event Budget Management System is a console-based C application designed to help users efficiently manage and track expenses for any event. The system allows users to set an initial budget and then record various expenses by providing a description, category, and amount. It automatically calculates the total spent amount, remaining balance, and displays a complete summary of all recorded expenses.
 
 Additional features include editing and deleting expenses, generating category-wise totals, and saving a detailed summary to a text file for future reference. The program also alerts the user when the total spending exceeds the allocated budget. By using structured programming, arrays, and file handling, this system provides a simple yet effective solution for organizing event finances. It is especially useful for students, organizers, and anyone planning events who need a basic financial management tool.
+
+___
+
 
 ****Project Features****
 
@@ -92,7 +99,13 @@ Easy navigation through a menu-driven interface.
 
 Safely exit the program without losing any data.
 
-🔹 METHOD 1: Run in Code::Blocks (Recommended)
+
+____
+
+*******HOW TO RUN THE CODE*******
+
+
+ **METHOD 1: Run in Code::Blocks (Recommended)**
 
 Step 1: Open Code::Blocks
 
@@ -145,10 +158,7 @@ Exit
 
 
 
-
-
-
-🔹 METHOD 2: Run Using GCC in Command Prompt (Windows)
+**METHOD 2: Run Using GCC in Command Prompt (Windows)**
 
 Step 1: Install MinGW (if not installed)
 
@@ -187,7 +197,7 @@ Your menu will appear, and you can start using the program.
 
 
 
-🔹 METHOD 3: Run Using GCC in Linux / macOS Terminal
+**METHOD 3: Run Using GCC in Linux / macOS Terminal**
 
 Step 1: Save the File
 
@@ -210,7 +220,7 @@ Step 4: Run
 
 
 
-🔹 METHOD 4: Use an Online Compiler (Fastest)
+ **METHOD 4: Use an Online Compiler (Fastest)**
 
 You can run your code quickly using online C compilers such as:
 
@@ -236,7 +246,47 @@ Steps:
 
 4. Click Run.
 
+   *******SCREENSHORTS*******
 
+***1)program start.***
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc1.jpg" width="500">
+</p>
 
+***2)Main menu.***
+
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc2.jpg" width="500">
+</p>
+
+***3)Adding an expence***
+
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc3.jpg" width="500">
+</p>
+
+***4)View summary***
+
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc4.jpg" width="500">
+</p>
+
+***5)Category wise total***
+
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc5.jpg" width="500">
+</p>
+
+***6)Budget exceeded warning***
+
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc6.jpg" width="500">
+</p>
+
+***7)saved file message***
+
+<p align="center">
+  <img src="https://github.com/kallurithashik-sketch/event_budget_management_system/blob/0339b02fcdf4e5edb2e86defdcc6f0e8cbfcd2a4/sc7.jpg" width="500">
+</p>
 
 ---
